@@ -8,6 +8,12 @@
 .buildlog/
 .history
 .svn/
+*.pem
+*.crt
+*.key
+
+# Python files
+config.py
 
 # IntelliJ related
 *.iml
